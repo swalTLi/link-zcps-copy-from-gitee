@@ -1,0 +1,57 @@
+.navMenu{
+    background-color: #ffffff;
+    float: left;
+    width: 19%;
+    margin-right: 1%;
+}
+.navMenu .line:first-child{
+    background-color: #fff;
+    width: 215px;
+    height: 40px;
+    padding-left: 30%;
+    padding-top: 10px;
+    text-left: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.navMenu .line{
+    background-color: #fff;
+    width: 15.4em;
+    height: 3em;
+    padding-left: 30%;
+    padding-top: 10px;
+    text-left: center;
+    margin-bottom: 10px;
+}
+.infos{
+    background-color: #ffffff;
+    float: left;
+    width: 80%;
+}
+
+.navMenu .line:hover {
+    background: #e6e9ed;
+}
+
+.navMenu .line.select {
+    background: #e6e9ed;
+}
+
+.ico{margin-left: 40%;
+    margin-top: -15%;}
+
+.icon-bianji:hover{
+    color: #1890ff;
+}
+.icon-shanchu:hover{
+    color: #1890ff;
+}
+.icon-shanchu{
+    margin-left: 7px;
+}
+.icon-jiahao{
+    margin-left: 36%;
+}
+.icon-jiahao:hover{
+    color: #f43095;
+}

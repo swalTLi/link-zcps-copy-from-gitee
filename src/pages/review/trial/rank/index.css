@@ -1,0 +1,40 @@
+.tableData{
+    border-top: 1px solid #f0f0f0;
+    border-left: 1px solid #f0f0f0;
+    border-collapse: collapse; /*设置单元格的边框合并为1*/
+}
+.tableData > tr > td, .tableData > tr > th{
+    text-align: center;
+    color: #000000;
+    border-bottom: 1px solid #f0f0f0;
+    border-right: 1px solid #f0f0f0;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+
+.description td {
+    text-align: center;
+    border-top: 1px solid #f0f0f0;
+    border-left: 1px solid #f0f0f0;
+}
+.description:first-child td {
+    border-top: 0;
+}
+.description td:first-child {
+    border-left: 0;
+}
+
+.examineNote1 span{
+    color: #60bd90;
+}
+.examineNote2 span{
+    color: #f43095;
+}
+
+.operation .button{
+    margin-top: 2.5px;
+    margin-bottom:2.5px;
+}
+
